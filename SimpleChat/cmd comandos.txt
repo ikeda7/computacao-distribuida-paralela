@@ -1,0 +1,8 @@
+cd c:\jgroups
+set classpath=c:\jgroups\jgroups-4.2.4.Final.jar
+set classpath=.;jgroups-4.2.4.Final.jar
+java org.jgroups.Version
+javac SimpleChat.java
+java -Djgroups.bind_addr=127.0.0.1 -Djava.net.preferIPv4Stack=true SimpleChat
+
+cd c:\jgroups && set classpath=c:\jgroups\jgroups-4.2.4.Final.jar && set classpath=.;jgroups-4.2.4.Final.jar

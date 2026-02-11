@@ -1,0 +1,8 @@
+com\mycompany\aula2\Direcionador$Connection.class
+com\mycompany\aula2\Direcionador$TCPServer.class
+com\mycompany\aula2\Emissor$TCPClient.class
+com\mycompany\aula2\Emissor.class
+com\mycompany\aula2\Direcionador$UDPServer.class
+com\mycompany\aula2\Receptor.class
+com\mycompany\aula2\Direcionador.class
+com\mycompany\aula2\Receptor$UDPClient.class
